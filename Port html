@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>Vicky</h1>
+    <p>Web Development Intern</p>
+</header>
+
+<section class="about">
+    <img src="profile.jpg" alt="My Photo">
+    <h2>About Me</h2>
+    <p>I am a beginner web developer learning HTML, CSS and JavaScript.</p>
+</section>
+
+<section class="skills">
+    <h2>Skills</h2>
+    <ul>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>JavaScript</li>
+    </ul>
+</section>
+
+<section class="projects">
+    <h2>Projects</h2>
+    <p>Portfolio Website</p>
+    <p>Landing Page</p>
+</section>
+
+<section class="resume">
+    <h2>Resume</h2>
+    <a href="resume.pdf" download>Download Resume</a>
+</section>
+
+<section class="contact">
+    <h2>Contact</h2>
+    <p>Email: vicky@gmail.com</p>
+    <p>Phone: 9876543210</p>
+</section>
+
+<footer>
+    <p>© 2026 Vicky</p>
+</footer>
+
+</body>
+</html>
